@@ -32,3 +32,7 @@ Route::get('/saludo', function () {
 Route::get('/homeUser', function () {
     return view('HomeUser');
 });
+
+Route::get('/bienvenida', function () {
+    return view('Bienvenida');
+});
