@@ -36,3 +36,45 @@ Route::get('/homeUser', function () {
 Route::get('/bienvenida', function () {
     return view('Bienvenida');
 });
+
+Route::get('/somosWV', function () {
+    return view('SomosWV');
+});
+
+Route::get('/beneficios', function () {
+    return view('Beneficios');
+});
+
+Route::get('/relaciones', function () {
+    return view('Relaciones');
+});
+
+Route::get('/politica', function () {
+    return view('PolideAnti');
+});
+
+Route::get('/proteccion', function () {
+    return view('Proteccion');
+});
+
+Route::get('/comunicaciones', function () {
+    return view('Comunicaciones');
+});
+
+Route::get('/sostenibilidad', function () {
+    return view('Sostenibilidad');
+});
+
+Route::get('/seguridad', function () {
+    return view('Seguridad');
+});
+
+Route::get('/tuAgenda', function () {
+    return view('TuAgenda');
+});
+
+Route::get('/tuMundoWVP', function () {
+    return view('TuMundoWVP');
+});
+
+

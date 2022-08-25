@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>
-      Bienvenida
+      Somos World Vision
     </title>
     <meta name="description" content="Simple landind page" />
     <meta name="keywords" content="" />
@@ -24,19 +24,8 @@
               </div>
         </div>
     </nav>
-    <section class="bg-white border-b py-8">
-        <div class="container max-w-4xl mx-auto m-8">
-            <h2 class="w-full my-2 text-4xl font-bold leading-tight text-center text-gray-800">
-                Bienvenida #NOMBRE
-            </h2>
-        </div>
-        <div class="container max-2xl mx-auto m-8">
-            <h2 class="w-full my-1 text-2xl font-semibold leading-tight text-center text-gray-500 tracking-wider">
-                ESTAMOS FELIZ PORQUE YA ERES PARTE <BR>DE LA FAMILIA DE WORLD VISION</h2>
-        </div>
 
-    </section>
-    <section class="bg-white dark:bg-gray-900 content-center">
+    <section class="bg-white dark:bg-gray-900 content-center mx-4 pt-40 ml-20 mr-20 mb-20">
         <div class="container px-6 py-10 mx-auto">
             <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
                 <div class="p-8 space-y-3 border-2 border-orange-400 dark:border-blue-300 rounded-xl">
@@ -52,60 +41,43 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
                     </p>
 
-                    <button class="bg-gray-200 text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" onclick="toggleModal('modal-id')">
+                    <button class="bg-gray-200 text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" onclick="toggleModal('modal3-id')">
                         <svg class="h-8 w-8 text-orange-500"  viewBox="0 0 24 24"  fill="none"  stroke="currentColor"  stroke-width="2"  stroke-linecap="round"  stroke-linejoin="round">  <circle cx="12" cy="12" r="10" />  <polyline points="12 16 16 12 12 8" />  <line x1="8" y1="12" x2="16" y2="12" /></svg>
                       </button>
-                      <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center" id="modal-id">
+                      <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center" id="modal3-id">
                         <div class="relative w-auto my-6 mx-auto max-w-6xl">
                           <!--content-->
                           <div class="border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none">
                             <!--header-->
                             <div class="flex items-start justify-between p-5 border-b border-solid border-slate-200 rounded-t">
                               <h3 class="text-3xl font-semibold text-gray-600">
-                                Frase World Vision
+                                ¿Quiénes Somos?
                               </h3>
-                              <button class="p-1 ml-auto bg-transparent border-0 text-black opacity-5 float-right text-3xl leading-none font-semibold outline-none focus:outline-none" onclick="toggleModal('modal-id')">
+                              <button class="p-1 ml-auto bg-transparent border-0 text-black opacity-5 float-right text-3xl leading-none font-semibold outline-none focus:outline-none" onclick="toggleModal('modal3-id')">
                                 <span class="bg-transparent text-black opacity-5 h-6 w-6 text-2xl block outline-none focus:outline-none">
                                   ×
                                 </span>
                               </button>
                             </div>
                             <!--body-->
-                            <div class="relative p-6 flex-auto">
-                              <p class="my-4 text-slate-500 text-lg leading-relaxed text-black">
-                                I always felt like I could do anything. That’s the main
-                                thing people are controlled by! Thoughts- their perception
-                                of themselves! They're slowed down by their perception of
-                                themselves. If you're taught you can’t do anything, you
-                                won’t do anything. I was taught I could do everything.
-                              </p>
 
-                              <p class="my-4 text-slate-500 text-lg leading-relaxed text-black">
-                                I always felt like I could do anything. That’s the main
-                                thing people are controlled by! Thoughts- their perception
-                                of themselves! They're slowed down by their perception of
-                                themselves. If you're taught you can’t do anything, you
-                                won’t do anything. I was taught I could do everything.
-                              </p>
-
-                            </div>
 
                             <div class="flex justify-center" max-width=768px>
 
-                                <iframe width="560" height="315" src="https://www.youtube.com/embed/NnEP5Gjkt_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                                <iframe width="560" height="315" src="https://www.youtube.com/embed/u1l6M8dCcz0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
                             </div>
 
                             <!--footer-->
                             <div class="flex items-center justify-end p-6 border-t border-solid border-slate-200 rounded-b">
-                              <button class="bg-orange-400 text-white active:bg-emerald-600 font-extrabold uppercase text-base px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" onclick="toggleModal('modal-id')">
+                              <button class="bg-orange-400 text-white active:bg-emerald-600 font-extrabold uppercase text-base px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" onclick="toggleModal('modal3-id')">
                                 Siguiente
                               </button>
                             </div>
                           </div>
                         </div>
                       </div>
-                      <div class="hidden opacity-25 fixed inset-0 z-40 bg-black" id="modal-id-backdrop"></div>
+                      <div class="hidden opacity-25 fixed inset-0 z-40 bg-black" id="modal3-id-backdrop"></div>
                       <script type="text/javascript">
                         function toggleModal(modalID){
                           document.getElementById(modalID).classList.toggle("hidden");
@@ -115,12 +87,6 @@
                         }
                       </script>
                 </div>
-
-
-
-
-
-
 
 
 
@@ -138,10 +104,10 @@
                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Provident ab nulla quod dignissimos vel non corrupti doloribus voluptatum eveniet
                     </p>
 
-                    <button class="bg-pink-500 text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" onclick="toggleModal('modal2-id')">
+                    <button class="bg-pink-500 text-white active:bg-pink-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" onclick="toggleModal('modal4-id')">
                         Open large modal
                       </button>
-                      <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center" id="modal2-id">
+                      <div class="hidden overflow-x-hidden overflow-y-auto fixed inset-0 z-50 outline-none focus:outline-none justify-center items-center" id="modal4-id">
                         <div class="relative w-auto my-6 mx-auto max-w-6xl">
                           <!--content-->
                           <div class="border-0 rounded-lg shadow-lg relative flex flex-col w-full bg-white outline-none focus:outline-none">
@@ -150,7 +116,7 @@
                               <h3 class="text-3xl font-semibold text-black">
                                 Hola Mundo
                               </h3>
-                              <button class="p-1 ml-auto bg-transparent border-0 text-black opacity-5 float-right text-3xl leading-none font-semibold outline-none focus:outline-none" onclick="toggleModal('modal2-id')">
+                              <button class="p-1 ml-auto bg-transparent border-0 text-black opacity-5 float-right text-3xl leading-none font-semibold outline-none focus:outline-none" onclick="toggleModal('modal4-id')">
                                 <span class="bg-transparent text-black opacity-5 h-6 w-6 text-2xl block outline-none focus:outline-none">
                                   ×
                                 </span>
@@ -176,17 +142,17 @@
 
                             <!--footer-->
                             <div class="flex items-center justify-end p-6 border-t border-solid border-slate-200 rounded-b">
-                              <button class="text-red-500 background-transparent font-bold uppercase px-6 py-2 text-sm outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" onclick="toggleModal('modal2-id')">
+                              <button class="text-red-500 background-transparent font-bold uppercase px-6 py-2 text-sm outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" onclick="toggleModal('modal4-id')">
                                 Close
                               </button>
-                              <button class="bg-orange-400 text-white active:bg-emerald-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" onclick="toggleModal('modal2-id')">
+                              <button class="bg-orange-400 text-white active:bg-emerald-600 font-bold uppercase text-sm px-6 py-3 rounded shadow hover:shadow-lg outline-none focus:outline-none mr-1 mb-1 ease-linear transition-all duration-150" type="button" onclick="toggleModal('modal4-id')">
                                 Save Changes
                               </button>
                             </div>
                           </div>
                         </div>
                       </div>
-                      <div class="hidden opacity-25 fixed inset-0 z-40 bg-black" id="modal2-id-backdrop"></div>
+                      <div class="hidden opacity-25 fixed inset-0 z-40 bg-black" id="modal4-id-backdrop"></div>
                       <script type="text/javascript">
                         function toggleModal(modalID){
                           document.getElementById(modalID).classList.toggle("hidden");
@@ -209,56 +175,3 @@
   </body>
 </html>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/4

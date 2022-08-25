@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta http-equiv="X-UA-Compatible" content="ie=edge" />
     <title>
-      Bienvenida
+      Beneficios
     </title>
     <meta name="description" content="Simple landind page" />
     <meta name="keywords" content="" />
@@ -24,19 +24,9 @@
               </div>
         </div>
     </nav>
-    <section class="bg-white border-b py-8">
-        <div class="container max-w-4xl mx-auto m-8">
-            <h2 class="w-full my-2 text-4xl font-bold leading-tight text-center text-gray-800">
-                Bienvenida #NOMBRE
-            </h2>
-        </div>
-        <div class="container max-2xl mx-auto m-8">
-            <h2 class="w-full my-1 text-2xl font-semibold leading-tight text-center text-gray-500 tracking-wider">
-                ESTAMOS FELIZ PORQUE YA ERES PARTE <BR>DE LA FAMILIA DE WORLD VISION</h2>
-        </div>
 
     </section>
-    <section class="bg-white dark:bg-gray-900 content-center">
+    <section class="bg-white dark:bg-gray-900 content-center mx-4 pt-40 ml-20 mr-20 mb-20"">
         <div class="container px-6 py-10 mx-auto">
             <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-12 md:grid-cols-2 xl:grid-cols-3">
                 <div class="p-8 space-y-3 border-2 border-orange-400 dark:border-blue-300 rounded-xl">
@@ -209,56 +199,3 @@
   </body>
 </html>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-/4
