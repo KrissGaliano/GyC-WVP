@@ -22,7 +22,7 @@
   </head>
   <body class="leading-normal tracking-normal text-white gradient" style="font-family: 'Source Sans Pro', sans-serif;">
     <!--Nav-->
-    
+
     <div class="pt-24">
       <div class="container px-1 mx-auto flex flex-wrap flex-col md:flex-row items-center">
         <!--Left Col-->
@@ -77,7 +77,7 @@
         <div class="flex flex-wrap">
           <div class="w-5/6 sm:w-1/2 p-6"></div>
           </div>
-            
+
     </script>
   </body>
 </html>

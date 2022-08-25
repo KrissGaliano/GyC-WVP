@@ -63,14 +63,11 @@
 
 
 <div  max-width=768px>
-    <div class="bg-gray-100 flex justify-between mx-4 pt-40 ml-20 mr-20 mb-20">
+    <div class="bg-transparent flex justify-between mx-4 pt-40 ml-20 mr-20 mb-20">
 
-      <div class="flex justify-center" max-width=768px>
+      <div class="flex justify-center rounded-lg" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
-          <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
-          </a>
-
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Bienvenida</h5>
             <p class="text-gray-700 text-base mb-4">
@@ -85,7 +82,7 @@
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg  bg-pink-800 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Somos World Vision</h5>
@@ -101,7 +98,7 @@
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Mis Beneficios y Políticas</h5>
@@ -118,12 +115,12 @@
 
 
 <div  max-width=768px>
-    <div class="bg-gray-100 flex justify-between mx-4 pt-10 ml-20 mr-20 mb-20">
+    <div class="bg-transparent flex justify-between mx-4 pt-10 ml-20 mr-20 mb-20">
 
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Relaciones y Retribuciones laborales</h5>
@@ -139,7 +136,7 @@
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Política de Anticorrupción</h5>
@@ -155,7 +152,7 @@
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Protección y Salvaguardia</h5>
@@ -172,12 +169,12 @@
 
 
 <div  max-width=768px>
-    <div class="bg-gray-100 flex justify-between mx-4 pt-10 ml-20 mr-20 mb-20">
+    <div class="bg-transparent flex justify-between mx-4 pt-10 ml-20 mr-20 mb-20">
 
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Comunicaciones</h5>
@@ -193,7 +190,7 @@
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Sostenibilidad y Amigo Solidario</h5>
@@ -209,7 +206,7 @@
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Seguridad de la Información TI</h5>
@@ -226,12 +223,12 @@
 
 
 <div  max-width=768px>
-    <div class="bg-gray-100 flex justify-between mx-4 pt-10 ml-20 mr-20 mb-20">
+    <div class="bg-transparent flex justify-between mx-4 pt-10 ml-20 mr-20 mb-20">
 
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Tu Agenda</h5>
@@ -247,7 +244,7 @@
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">Tu Mundo World Vision </h5>
@@ -263,7 +260,7 @@
       <div class="flex justify-center" max-width=768px>
         <div class="rounded-lg shadow-lg bg-white max-w-xs">
           <a href="#!" data-mdb-ripple="true" data-mdb-ripple-color="light">
-            <img class="rounded-t-lg" src="https://mdbootstrap.com/img/new/standard/nature/182.jpg" alt=""/>
+            <img class="rounded-t-lg inset-0 bg-gray-900 bg-opacity-50" src="https://blogger.googleusercontent.com/img/a/AVvXsEiUF1UM42xAccoWiukV_aXxEJmCcxroQ3v-KeRjOOf28e7cY-FcHQvN4EV0xdwU4sXNzaFEwkvJSxORDtf4NKs43vg0Z_zflP6ncav9PqcBRGVDqX5if3c_1GSCHAU0JT6CSobrBp2BX-Jl_TMziWvT8GVdWlFMl0_1eTFRptdDmsBOcGhHfhZ5Fe9rwA=w367-h214" alt=""/>
           </a>
           <div class="p-6">
             <h5 class="text-gray-900 text-xl font-medium mb-2">--</h5>
